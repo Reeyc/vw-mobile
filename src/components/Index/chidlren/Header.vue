@@ -6,7 +6,7 @@
       </div>
       <div class="info">
         <h2 class="name">ReeYc</h2>
-        <h3 class="username">helloyec@163.com</h3>
+        <h3 class="username">helloxxx@163.com</h3>
       </div>
     </div>
     <div class="header-right">
@@ -34,14 +34,12 @@ export default {};
   .header-left, .header-right
     display: flex
     align-items: center
-    .avatar
-      width: 124px
-      height: 124px
-      padding-right: 24px
-      & img
-        width: 100%
-        border-radius: 50%
-        border: 4px solid #98d2b6
+    & img
+      margin-right: 24px
+      width: 134px
+      height: 134px
+      border-radius: 50%
+      border: 4px solid #98d2b6
     .info
       width: 250px
       .name
